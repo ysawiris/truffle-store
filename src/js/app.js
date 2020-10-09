@@ -90,7 +90,7 @@ App = {
     event.preventDefault();
 
     var petId = parseInt($(event.target).data('id'));
-    var petPrice = parseInt($(event.target).data('pet-age'));
+    var petPrice = parseInt($(event.target).data('price'));
 
     var adoptionInstance;
 
@@ -110,10 +110,10 @@ App = {
 
       App.contracts.Adoption.deployed().then(function(instance) {
         adoptionInstance = instance;
-        adoptionInstance.sendCoin(account, )
+        // adoptionInstance.sendCoin(account, petPrice).send('')
 
         // Execute adopt as a transaction by sending account
-        return adoptionInstance.adopt(petId, {from: account});
+        return adoptionInstance.adopt(petId, petPrice);
       }).then(function(result) {
         return App.markAdopted();
       }).catch(function(err) {

@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "price" : 20,
     "name": "Frieda",
     "picture": "images/air-jordan-1.jpg",
     "age": 3,
@@ -9,6 +10,7 @@
   },
   {
     "id": 1,
+    "price" : 20,
     "name": "Gina",
     "picture": "images/air-jordan-3-retro-se-shoe.jpg",
     "age": 3,
@@ -17,6 +19,7 @@
   },
   {
     "id": 2,
+    "price" : 20,
     "name": "Collins",
     "picture": "images/jordan-air-zoom-renegade-running-shoe-GVcZTF.jpg",
     "age": 2,
@@ -25,6 +28,7 @@
   },
   {
     "id": 3,
+    "price" : 20,
     "name": "Melissa",
     "picture": "images/jordan-delta-mens-shoe-CKxS11.jpg",
     "age": 2,
@@ -33,6 +37,7 @@
   },
   {
     "id": 4,
+    "price" : 20,
     "name": "Jeanine",
     "picture": "images/jordan-delta-mens-shoe-jpSKRQ.jpg",
     "age": 2,
@@ -41,6 +46,7 @@
   },
   {
     "id": 5,
+    "price" : 20,
     "name": "Elvia",
     "picture": "images/jordan-react-elevation-mens-basketball-shoe-6Z3rQ4.jpg",
     "age": 3,
@@ -49,6 +55,7 @@
   },
   {
     "id": 6,
+    "price" : 20,
     "name": "Latisha",
     "picture": "images/jordan-zoom-92-mens-shoe-HGMsj5.jpg",
     "age": 3,
@@ -57,6 +64,7 @@
   },
   {
     "id": 7,
+    "price" : 20,
     "name": "Coleman",
     "picture": "images/jordan-zoom-trunner-advance-training-shoe-DFWdgM.jpg",
     "age": 3,
@@ -65,6 +73,7 @@
   },
   {
     "id": 8,
+    "price" : 20,
     "name": "Nichole",
     "picture": "images/jordan-zoom-trunner-ultimate-running-shoe-bW1Dzz.jpg",
     "age": 2,
@@ -73,6 +82,7 @@
   },
   {
     "id": 13,
+    "price" : 20,
     "name": "Kristina",
     "picture": "images/jordan-delta-mens-shoe-jpSKRQ (1).jpg",
     "age": 4,
